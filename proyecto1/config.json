@@ -1,0 +1,13 @@
+{
+    "commands": {
+        "init": true,
+        "add": true,
+        "commit": true,
+        "status": true,
+        "log": true,
+        "branch": true,
+        "checkout": true,
+        "merge": true,
+        "pr": true
+    }
+}
